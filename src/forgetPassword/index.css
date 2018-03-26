@@ -1,0 +1,40 @@
+.card {
+    position: absolute;
+    top: 12%;
+    left: 25%;
+    width: 50%;
+}
+
+.card-header {
+    font-size: 22px;
+    background: linear-gradient(#6D94BF, #345578);
+    display: flex;
+    justify-content: space-between;
+}
+
+.login-logo {
+    width: 10%;
+    margin-right: 10px;
+}
+
+.card-header .fa-registered {
+    font-size: 13px;
+}
+
+.card button {
+    padding: 5px 30px;
+    float: right;
+}
+
+.inline-forms {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card a {
+    color: #fff;
+}
+.card a:hover {
+    color: rgb(46, 161, 255);
+    text-decoration: none;
+}

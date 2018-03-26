@@ -1,0 +1,29 @@
+.modal-header {
+    background: linear-gradient(#6A92BD, #3E648D);
+    color: white;
+    font-size: 25px;
+    border-radius: 0px;
+}
+
+.modal-body {
+    text-align: left;
+    color: #505050;
+    padding: 0rem;
+    padding-right: 70px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    line-height: 1.8em;
+    margin-bottom: -20px;
+}
+
+.info-modal li {
+    margin-bottom: 1em;
+}
+
+.btn-modal {
+    margin: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+

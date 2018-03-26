@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Teko', sans-serif;
+  overflow: hidden;
+  background: #cccccc;
+}
+
+.demo {
+  position: absolute;
+  left: 3%;
+  bottom: 0px;
+}
+
+.copyright {
+  position: absolute;
+  right: 3%;
+  bottom: 0px;
+}

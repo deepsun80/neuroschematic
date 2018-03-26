@@ -1,0 +1,18 @@
+h5, h4 {
+    color: rgb(53, 103, 156);
+    line-height: 1.5em;
+    background-color: transparent;
+}
+
+.text {
+    position: absolute;
+    left: 45%;
+    top: 95px;
+}
+
+@media only screen and (max-width: 750px) {
+    .text {
+        font-size: 26px;
+        top: 95px;        
+    }
+}

@@ -1,0 +1,52 @@
+.navbar {
+    min-height: 90px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .navbar-brand {
+        font-size: 18px !important;
+    }
+}
+
+.nav-link {
+    font-size: 23px !important; 
+}
+.nav-link:hover {
+    cursor: pointer;
+}
+.navbar-nav {
+    margin-right: 10%;
+}
+
+.navbar-nav a {
+    margin-right: 1.3em;
+}
+
+.form-inline {
+    padding: 5px 25px;
+}
+
+.form-inline .btn {
+    margin-top: 10px;
+}
+
+.dropdown-item {
+    color: rgb(53, 103, 156); 
+}
+
+.dropdown-item:hover {
+    background: #e6e6e6;
+    color: rgb(53, 103, 156); 
+}
+.dropdown-item:active {
+    background: #4A74A1;
+}
+
+.logo {
+    width: 12%;
+    margin-right: 10px;
+}
+
+.navbar-brand .fa-registered {
+    font-size: 13px;
+}
